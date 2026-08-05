@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-48bxh9.koi888.sbs/sitemap.xml
